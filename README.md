@@ -16,5 +16,6 @@
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E2E?logo=databricks&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
