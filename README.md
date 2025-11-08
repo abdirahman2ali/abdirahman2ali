@@ -5,7 +5,6 @@
 - 🆘 **I'm looking for help with:** improving automated data quality testing and scaling ETL pipelines.
 - 📚 **I'm currently learning:** advanced machine learning techniques and AI-powered insight generation.
 - 💬 **Ask me about:** dbt, Looker, SQL optimization, NBA analytics, and building Python data pipelines.
-- 😄 **Fun Fact:** I built a full NBA data ingestion + dbt pipeline just to answer basketball questions faster.
 
 💻 Tech Stack:
 
