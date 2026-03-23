@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Abdirahman!
 
-I build full-stack data platforms — from ingestion pipelines and dbt models to BI tooling and self-serve dashboards.
+I build full-stack data platforms, from ingestion pipelines and dbt models to BI tooling and self-serve dashboards.
 
 - 🚀 **Currently building:** an end-to-end NBA analytics portfolio (scraping, dbt, interactive dashboard) to demonstrate the full data stack
 - 🤝 **Open to collaborating on:** analytics engineering projects, open-source dbt tooling, and BI/Looker workflows
