@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Abdirahman!
 
-- 🚀 **I'm currently working on:** building data pipelines, dbt models, and interactive dashboards for analytics projects.
-- 🤝 **I'm looking to collaborate on:** open-source analytics tools, NBA statistics projects, and Looker/BI workflows.
-- 🆘 **I'm looking for help with:** improving automated data quality testing and scaling ETL pipelines.
-- 📚 **I'm currently learning:** advanced machine learning techniques and AI-powered insight generation.
-- 💬 **Ask me about:** dbt, Looker, SQL optimization, NBA analytics, and building Python data pipelines.
+I build full-stack data platforms — from ingestion pipelines and dbt models to BI tooling and self-serve dashboards.
+
+- 🚀 **Currently building:** an end-to-end NBA analytics portfolio (scraping, dbt, interactive dashboard) to demonstrate the full data stack
+- 🤝 **Open to collaborating on:** analytics engineering projects, open-source dbt tooling, and BI/Looker workflows
+- 💬 **Ask me about:** dbt, Looker, SQL optimization, dimensional modeling, and building Python data pipelines
 
 💻 Tech Stack:
 
