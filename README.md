@@ -26,7 +26,7 @@
 
 - **Layered models:** staging, intermediate, marts, with one schema per domain.
 - **Idempotent ingestion:** MERGE-based upserts so a re-run never creates duplicates.
-- **Tested before merge:** `ruff`, `pytest`, and `dbt test` in CI on every PR.
+- **Tested before merge:** `ruff` and `pytest` run in CI on every ingestion PR, and I run `dbt test` on changed models before opening it.
 - **Semantic layer in mind:** descriptions, keys, and relationships live in `schema.yml` so BI tools inherit them.
 
 ## Tools
