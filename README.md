@@ -16,7 +16,6 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [analytics-portfolio](https://github.com/abdirahman2ali/analytics-portfolio) | Monorepo of end-to-end pipelines (NBA, Toronto parking, financial due diligence). Python ingestion, one shared dbt project, Omni for BI. | Python, dbt, Databricks, Omni |
-| [portfolio](https://github.com/abdirahman2ali/portfolio) | My personal site, hosted on GitHub Pages. | HTML, CSS |
 
 ## How I build
 
