@@ -1,6 +1,6 @@
 # Hi, I'm Abdirahman 👋
 
-**Analytics engineer in Toronto.** I build the full data stack, from raw ingestion to tested dbt models to dashboards people actually use. I care about clean grain, honest metrics, and pipelines that can be re-run safely.
+**Analytics engineer.** I build the full data stack, from raw ingestion to tested dbt models to dashboards people actually use. I care about clean grain, honest metrics, and pipelines that can be re-run safely.
 
 [Portfolio](https://abdirahmanali.dev) · [Email](mailto:abdirahman2ali@gmail.com)
 
