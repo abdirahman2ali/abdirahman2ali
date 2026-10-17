@@ -9,7 +9,6 @@
 ## What I'm working on
 
 - **Financial due diligence platform:** SEC EDGAR filings into Databricks, scored company health metrics in dbt, peer benchmarks by GICS sector, served through Omni.
-- **AI-assisted automations:** small Python tools that use Claude to score and route data, then send a digest.
 - Always tightening the portfolio itself: CI, idempotent loads, and models that pass their tests.
 
 ## Featured projects
@@ -17,9 +16,6 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [analytics-portfolio](https://github.com/abdirahman2ali/analytics-portfolio) | Monorepo of end-to-end pipelines (NBA, Toronto parking, financial due diligence). Python ingestion, one shared dbt project, Omni for BI. | Python, dbt, Databricks, Omni |
-| [lead-pipeline](https://github.com/abdirahman2ali/lead-pipeline) | Ingest, deduplicate, AI score with Claude, route to reps, alert on hot leads. | Python, Claude |
-| [county-records-monitor](https://github.com/abdirahman2ali/county-records-monitor) | Weekly watch on Florida county records for distress filings, scored by Claude and emailed as an HTML digest. | Python, Claude |
-| [job-search](https://github.com/abdirahman2ali/job-search) | Scores contract roles with Claude and emails a daily digest. | Python, Claude |
 | [portfolio](https://github.com/abdirahman2ali/portfolio) | My personal site, hosted on GitHub Pages. | HTML, CSS |
 
 ## How I build
@@ -45,7 +41,7 @@
 
 ## Ask me about
 
-dbt, dimensional modeling, Databricks, moving from Looker to Omni, and wiring LLMs into data pipelines without making them the source of truth.
+dbt, dimensional modeling, Databricks, and moving from Looker to Omni.
 
 ## Open to
 
