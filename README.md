@@ -38,10 +38,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## Ask me about
-
-dbt, dimensional modeling, Databricks, and moving from Looker to Omni.
-
 ## Contact
 
 The fastest way to reach me is email.
