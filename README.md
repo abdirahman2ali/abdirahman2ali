@@ -42,6 +42,6 @@
 
 dbt, dimensional modeling, Databricks, and moving from Looker to Omni.
 
-## Open to
+## Contact
 
-Analytics engineering and BI contract work. The fastest way to reach me is email.
+The fastest way to reach me is email.
